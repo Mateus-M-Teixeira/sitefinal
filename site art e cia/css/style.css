@@ -1,0 +1,147 @@
+nav{
+    background-color: white;
+    
+}
+h1{
+    font-family: 'Lobster', cursive;
+    color: #daa520;
+    animation-name: titulo 1s ease-in infinite alternate ;
+    
+}
+@keyframes titulo{
+    0%{
+        color: white;
+        letter-spacing: 2px;
+    
+    }
+    25%{
+        color: yellow;
+        letter-spacing: 3mm;
+    
+         
+    }
+    50%{
+        color: red;
+        letter-spacing: 4mm;
+    
+    }
+     100%{
+        color:black;
+        letter-spacing: 4mm;
+    
+     }
+    }
+li{
+    display: inline-block;
+    text-align: center;
+   font-size: 10mm;
+}
+    body{
+      background-color: #F7F4F2;  
+
+    }
+    .logo{
+        height: 71mm;
+        right: 60mm;
+        text-align: center;
+    
+    }
+    .menu{
+        height: 14mm;
+        right: 14mm
+        
+        
+        
+        
+    }
+    ul{
+        
+        text-align: center;
+    }
+    #segunda-lista{
+        display: none;
+        
+    }
+    ul ul li{
+        display: inline;
+    }
+    button{
+        color: black;
+    }
+    a{
+        text-decoration: none;
+    }
+    
+    body {
+        padding: 25px;
+        background-color: white;
+        color: black;
+        font-size: 25px;
+      }
+      
+      .dark-mode {
+        background-color: black;
+        color: white;
+      }
+
+    #visivel{
+        display: flex;
+        background-color: blueviolet;
+    }
+    #claro{
+    background-color: white;
+    color: #daa520;
+    }
+    #escuro{
+        background-color: black;
+        color: #daa520;
+    }
+    #duvidas{
+       background-color: blue;
+       border-radius: 30mm;
+       width: 30mm;
+       height: 30mm;
+    }
+    h1{
+        background-color: coral;
+        border-radius: 30mm;
+        color: black;
+        animation-name: animacao;
+    }
+    h2{
+        padding-top: 90mm;
+        background-color:  #daa520;
+        border-radius: 500mm;
+        color: black;
+    }
+    h4{
+        position: absolute;
+        color: blue;
+        margin-bottom: 200%;
+    }
+    #fora{
+        margin-right: 40mm;
+    }
+    label{ 
+        color: blue;
+    }
+    #TT6{
+        background-color: royalblue;
+        color: #daa520;
+    }
+    #TT2{
+        color: brown;
+    }
+    .logo{
+        background-color: #F7F4F2;
+    }
+    button{
+        background-color: black;
+    }
+    @keyframes animacao{
+  
+
+
+
+    }
+   
